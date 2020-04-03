@@ -1,6 +1,5 @@
 package ver_arith;
 
-import com.sun.org.apache.xpath.internal.operations.Mod;
 import org.chocosolver.solver.Model;
 import org.chocosolver.solver.variables.IntVar;
 
